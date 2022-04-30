@@ -1,2 +1,3 @@
 # projects
-Test projects for learning
+Starbuzz Coffee beverages.
+Test projects for learning.
